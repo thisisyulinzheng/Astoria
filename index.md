@@ -1,37 +1,35 @@
-## Welcome to GitHub Pages
+By Yulin Zheng
 
-You can use the [editor on GitHub](https://github.com/two-brain-cells-hard-at-work/Astoria/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Where is Astoria?
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![alt text](highlighted_image.png)
 
-### Markdown
+## Demographics and Statistics
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+ZIP Codes: 11101, 11102, 11103, 11105, 11106
 
-```markdown
-Syntax highlighted code block
+Astoria is a neighborhood on the west side of Queens named after John Jacob Astor. In total, the population of Astoria is 171,781 and the population is spread pretty evenly between the ZIP Codes. In terms of racial makeup, the largest percentage in each ZIP Code is white and in ZIP Codes 11103 and 11105 they are a majority, although a small one. In all neighborhoods, Asian and Hispanics make up the largest percentage of minority groups, with their size being roughly the same. The median income of Astoria ranges from $75,581 to $68,530. 
+Astoria is a neighborhood with great diversity in restaurants as many immigrants have settled there over the years. For example, it is well-known for its Greek cuisine (map pictured below) which has historical roots. According to The New York Times, although Astoria is home to many immigrants, many leave, with a recent example being the Bengali community in the early 2000s. Still though, Astoria still has people from hundreds of different countries and its culinary selection reflects that.
 
-# Header 1
-## Header 2
-### Header 3
+## Observations and Analysis for Queens
 
-- Bulleted
-- List
+In order to determine how each of our Queens neighborhoods ranked in terms of desirability for outdoor dining, we compared each one using the following desirable qualities: walk score, transit score, and income. Walk Score measures how readily the residents of a neighborhood can access the restaurants. People walking around the neighborhood could spot the restaurants and decide to stay and eat. Transit Score measures how readily consumers outside the neighborhood can access the restaurants. People need to be able to access the restaurants easily if they hear about them through advertisements. Income  is used to determine the cost of living. This then indicates more opportunities for restaurants to operate and be supported. We first ranked each neighborhood by a criteria and awarded 1 to 5 points (5 being the best and 1 being the worst). Then we totaled the points to determine a final ranking. For all metrics, walk score, transit score and median income, the higher the number is, the more points each neighborhood received. In terms of desirability of outdoor dining, our metrics indicate the following for our respective neighborhoods in Queens (from best to worst): Ridgewood, Jackson Heights, Astoria, Maspeth, Flushing. Ridgewood has the best balance of walkability, train access, and income to create an environment ideal for people to start restaurants that have outdoor dining while being easily accessible to people in and out of the area.
 
-1. Numbered
-2. List
+![alt text](outdoor_queens.png)
+\
+This pie chart analyzes the number (in percentages) of sidewalks, roadways, both, and open streets within the borough of Queens. The purpose of this pie chart is to give a numberical representation of whether sidewalks or roadways are more common for outdoor dining in Queens. Overall, the number of sidewalks is greater than the number of roadways. Though this pie chart does not depict the ratio between average sidewalk area and average roadway area, the bar graph above does.
 
-**Bold** and _Italic_ and `Code` text
+## In-Depth Astoria Analysis
 
-[Link](url) and ![Image](src)
-```
+![alt text](sidewalk_roadway.png)
+\
+In the neighborhood of Astoria, the bar graph shows that the average sidewalk area is greater than the average roadway area. 
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
+![alt text](seating_interest.png)
+\
+Based on the bar graph, the neighborhood of Astoria prefers sidewalks compared to roadways for seating for outdoor dining.  
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/two-brain-cells-hard-at-work/Astoria/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Map of Restaurants in Astoria
+<dl>
+<iframe src="astoria.html" width="600" height="400" frameborder="0" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</dl>
