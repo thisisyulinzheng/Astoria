@@ -20,11 +20,11 @@ In order to determine how each of our Queens neighborhoods ranked in terms of de
 
 ![alt text](sidewalk_roadway.png)
 \
-In the neighborhood of Astoria, the bar graph shows that the average sidewalk area is greater than the average roadway area. 
+In the neighborhood of Astoria, the bar graph shows that the average sidewalk area is greater than the average roadway area. When comparing this to sidewalk vs. roadway area of the other neighborhoods in our borough (see main borough page for that), the distributions seem pretty similar. Astoria also has a pretty high average area, relatively speaking, with over 400 sqft. for sidewalk and almost 300 sqft. for roadway.
 
 ![alt text](seating_interest.png)
 \
-Based on the bar graph, the neighborhood of Astoria prefers sidewalks compared to roadways for seating for outdoor dining.  
+Based on the bar graph, the neighborhood of Astoria prefers sidewalks compared to roadways for seating for outdoor dining. Interestingly enough, there is no open street dining in Astoria. Both sidewalk and roadway vs. just sidewalk or just roadway dominate the distribution, but that seems to be the trend for the other neighborhoods in our borough too.
 
 ## Map of Restaurants in Astoria
 <dl>
